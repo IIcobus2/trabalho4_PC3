@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.com.prog3.trabalho4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
